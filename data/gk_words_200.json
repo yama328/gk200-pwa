@@ -1,0 +1,17 @@
+[
+  {
+    "id": "LLM",
+    "term": "大規模言語モデル(LLM)",
+    "definition": "膨大なコーパスで学習し多用途に使える生成型言語モデル",
+    "chapter": "第6章",
+    "sourceChapter": "ディープラーニングの応用例",
+    "alias": "LLM",
+    "priorityScore": 1.2,
+    "priorityLabel": "最重要",
+    "distractorsTerms": [
+      "Transformer",
+      "CNN",
+      "SVM"
+    ]
+  }
+]
